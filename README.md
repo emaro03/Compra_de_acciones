@@ -1,5 +1,3 @@
-# Compra de acciones
-
 La finalidad del proyecto en cuestión es implementar un modelo de regresión logística para predecir cuales son los potenciales compradores de acciones en la bolsa de valores.
 
 ### Etapas del proyecto
